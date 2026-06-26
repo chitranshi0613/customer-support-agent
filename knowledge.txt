@@ -1,0 +1,36 @@
+TaskFlow SaaS - Customer Support Knowledge Base
+
+PRICING & BILLING
+- Free plan: up to 3 projects, 5 team members, 1GB storage
+- Pro plan: $12/month per user, unlimited projects, 50GB storage
+- Business plan: $25/month per user, SSO, priority support, 500GB storage
+- Billing date is the same day each month as when you first subscribed
+- To cancel: go to Settings > Billing > Cancel Subscription
+- Refunds are available within 7 days of any charge, no questions asked
+- We accept Visa, Mastercard, PayPal, and bank transfer for Business plans
+
+ACCOUNT & ACCESS
+- To invite a team member: Settings > Team > Invite by Email
+- Team member roles: Admin, Editor, Viewer
+- To reset your password: click "Forgot Password" on the login page
+- If you're locked out after 5 failed attempts, wait 30 minutes or contact support
+- To delete your account: Settings > Account > Delete Account (irreversible)
+
+FEATURES
+- Tasks can be assigned to multiple team members
+- Deadlines trigger email reminders 24 hours before due date
+- You can export any project as CSV or PDF from the project menu
+- Integrations available: Slack, Google Drive, Notion, GitHub
+- Mobile app available on iOS and Android
+
+COMMON ISSUES
+- App loading slow: clear browser cache or try incognito mode
+- Email notifications not arriving: check spam folder, whitelist noreply@taskflow.io
+- File upload failing: check your storage limit under Settings > Storage
+- Integration not connecting: re-authenticate from Settings > Integrations
+
+ESCALATION TRIGGERS
+- User mentions "lawyer", "refund refused", "data breach", "lost all data"
+- User has contacted support more than 3 times about the same issue
+- User is clearly very angry or using aggressive language
+- Billing dispute over $100
