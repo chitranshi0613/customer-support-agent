@@ -5,5 +5,3 @@ langchain
 pydantic
 streamlit
 python-dotenv
-fastapi
-uvicorn
